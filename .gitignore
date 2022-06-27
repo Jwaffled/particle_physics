@@ -1,0 +1,4 @@
+/target
+/.vscode
+SDL2_gfx.dll
+SDL2.dll
